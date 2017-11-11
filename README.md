@@ -1,7 +1,8 @@
 SPA for logging into Business Intelligence dashboards using Auth0
-
-Requires installing additional packages:
 <br> ++++++++++++++++++++++++++
+Requires installing additional packages:
+<br> 
+
 
 ```sh
 npm install angular2-jwt --save
