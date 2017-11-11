@@ -1,7 +1,7 @@
 SPA for logging into Business Intelligence dashboards using Auth0
 <br> ++++++++++++++++++++++++++
-Requires installing additional packages:
-<br> 
+<br> Requires installing additional packages:
+ 
 
 
 ```sh
